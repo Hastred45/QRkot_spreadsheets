@@ -21,7 +21,7 @@
 ## Установка
 1. Склонируйте репозиторий:
 ```
-git clone git@github.com:Hastred45/cat_charity_fund.git
+git clone git@github.com:Hastred45/QRkot_spreadsheets.git
 ```
 2. Активируйте venv и установите зависимости:
 ```
@@ -40,7 +40,7 @@ FIRST_SUPERUSER_PASSWORD=<пароль суперюзера>
 
 # Данные, получаемые после настройки Google Cloud:
 TYPE=service_account
-PROJECT_ID=atomic-climate-<идентификатор>
+PROJECT_ID=<идентификатор>
 PRIVATE_KEY_ID=<id приватного ключа>
 PRIVATE_KEY="-----BEGIN PRIVATE KEY-----<приватный ключ>-----END PRIVATE KEY-----\n"
 CLIENT_EMAIL=<email сервисного аккаунта>
